@@ -1,0 +1,29 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# Uncomment to exclude data/result files
+# *.rds
+# *.xlsx
+# population_data.csv
+# model_input*.xlsx
+# VE_results*.xlsx
+# *.png
+# *.pdf
+
+# System and editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
